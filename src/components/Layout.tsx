@@ -5,6 +5,7 @@ import React, { memo } from "react";
 
 const navItems = [
   { href: "/", label: "Beranda" },
+  { href: "/dataset", label: "Dataset & Sensor" },
   { href: "/signin", label: "Masuk" },
   { href: "/signup", label: "Daftar" },
   { href: "/blockchain", label: "MetaMask" },
